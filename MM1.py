@@ -15,7 +15,7 @@ import csv
 import copy
 import matplotlib.pyplot as plt
 
-LAMBDAS = [0.01, 0.03, 0.05, 0.07, 0.09]
+LAMBDAS = [0.03, 0.05, 0.07, 0.09]
 JOB_SIZE = 10
 
 TOTAL_SIMULATION_TIME = 100000  # time for running simulation
