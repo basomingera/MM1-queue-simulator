@@ -1,7 +1,7 @@
 # M/M/1 queue simulator and steady-state comparison
 An M/M/1 queue Python3 simulator that compares the simulation results against the steady state results.
 
-In queueing theory, M/M/1 is a queue with 1 server, whereby arrivals follow a Poisson process while job service time is an exponential distribution.
+In queueing theory, M/M/1 is a queue with 1 server, whereby arrivals follow a Poisson process while job service time is an exponential distribution. [Wikipedia] (https://en.wikipedia.org/wiki/M/M/1_queue)
 ## Getting Started
 
 This small project has only one file with all codes. All need to simulate is to run the MM1.py file.
